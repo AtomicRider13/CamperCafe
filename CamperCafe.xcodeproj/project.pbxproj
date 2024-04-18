@@ -6,10 +6,17 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXFileReference section */
+		0C2FE0552BD0C5D200599648 /* CamperCafe.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = CamperCafe.html; sourceTree = "<group>"; };
+		0C2FE0572BD0C65100599648 /* styles.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		0C2FE04E2BD0C5C000599648 = {
 			isa = PBXGroup;
 			children = (
+				0C2FE0552BD0C5D200599648 /* CamperCafe.html */,
+				0C2FE0572BD0C65100599648 /* styles.css */,
 			);
 			sourceTree = "<group>";
 		};
